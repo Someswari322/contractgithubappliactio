@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azureapplicationdemo.api.props" />
+</Project>

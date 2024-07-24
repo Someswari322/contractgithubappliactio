@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mCrJfeH2xSrNY0GG+3+MDWXNbgoZvrsziVtcCbBphpw=",
+  "Source": "azureapplicationdemo.api",
+  "BasePath": "_content/azureapplicationdemo.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
